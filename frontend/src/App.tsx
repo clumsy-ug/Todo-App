@@ -214,7 +214,8 @@ const App: React.FC = () => {
                 >
                     {isRegistering
                         ? "Already have an account? Login"
-                        : "Need to register?"}
+                        : "Need to register?"
+                    }
                 </button>
             </div>
         );
@@ -241,9 +242,7 @@ const App: React.FC = () => {
                         <span>{todo.content}</span>
                         <div className="todo-actions">
                             <button
-                                onClick={() =>
-                                    updateTodo(todo.id, todo.content)
-                                }
+                                onClick={() => updateTodo(todo.id, todo.content)}
                                 className="btn btn-edit"
                             >
                                 <FaEdit />
