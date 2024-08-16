@@ -1,6 +1,6 @@
 # Todo-App
 
-![todologin](https://github.com/user-attachments/assets/57b8546b-0fc9-4903-a8fe-2a650d5c34bb)
+![todo](https://github.com/user-attachments/assets/5462da8c-cfd9-428f-bd00-c72b7cc87ebb)
 
 # Technology used
 
